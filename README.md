@@ -235,7 +235,6 @@ src/
 
 - **Этап 2**: WebSocket & Real-Time
 - **Этап 3**: Social & Gamification
-- **Этап 4**: Premium UI
-- **Этап 5**: Auto-Bid Engine
-- **Этап 6**: Telegram Bot Integration
-- **Этап 7**: Load Testing
+- **Этап 4**: Auto-Bid Engine
+- **Этап 5**: Telegram Bot Integration
+- **Этап 6**: Load Testing
